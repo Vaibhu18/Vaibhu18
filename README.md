@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN development<br>🎯 Goals: to contribute to an open-source project, build a personal application<br>🎲 Fun fact: Cricket and Social media</p>
+<p align="left">📚 I'm currently learning BSC Computer Science<br>🎯 Goals: to contribute to an open-source project, build a personal application<br>🎲 Fun fact: Cricket and Social media</p>
 
 ###
 
