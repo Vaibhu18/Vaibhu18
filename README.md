@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My name is Vaibhav Shinde and I'm a MERN stack Developer, from Baramati Maharashtra</h3>
+<h3 align="center">I'm Vaibhav Shinde and I'm a MERN stack Developer, from Baramati Maharashtra</h3>
 
 ###
 
