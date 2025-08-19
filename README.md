@@ -1,6 +1,6 @@
 # 👨‍💻 Vaibhav Shinde | MERN Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;From+Baramati%2C+Maharashtra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1500&color=38B2AC&width=700&height=60&lines=👋+Hi%2C+I'm+Vaibhav+Shinde;💻+MERN+Stack+Developer;🚀+Building+Scalable+Web+Apps;🔧+React+%7C+Node+%7C+MongoDB;🏏+Cricket+Enthusiast;🌱+Open+Source+Contributor;📍+From+Baramati%2C+Maharashtra)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vcodedev&label=Profile%20views&color=0e75b6&style=flat" alt="vcodedev" />
