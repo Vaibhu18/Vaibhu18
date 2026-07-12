@@ -1,74 +1,277 @@
-# Hey there 👋, I'm Vaibhav Shinde  
+# Hey there 👋, I'm Vaibhav Shinde
 
-**MERN Stack Developer | Open Source Enthusiast | Cricket Lover**  
+<h3 align="center">Software Developer | Full-Stack Developer (.NET & MERN) | AI Enthusiast</h3>
 
----
-
-## 🚀 About Me  
-- 🎓 B.Sc. Computer Science student  
-- 💻 Passionate about building scalable full-stack applications  
-- 🌱 Currently focusing on backend scalability and load balancing techniques.  
-- 🏏 Cricket enthusiast  
-- 🎯 Actively engaged in open-source development with [@voxora-cloud](https://www.voxora.cloud/)  
+<p align="center">
+  <a href="https://github.com/Vaibhu18">
+    <img src="https://komarev.com/ghpvc/?username=Vaibhu18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 About Me
 
-### Frontend  
-- HTML  - CSS  - JavaScript  - React  - Redux  - Tailwind CSS  
-
-### Backend  
-- Node.js  - Express.js  - MongoDB  - Socket.io
-  
-### Tools & Platforms  
-- Git  - VS Code  - Vercel  - Postman  
-
----
-
-## 💡 What I’m Working On  
-- Building real-time applications using **WebSockets & Socket.io**  
-- Designing scalable backend architectures in **Node.js & MongoDB**  
-- Improving performance and reliability of full-stack applications  
-- Contributing to open-source projects and collaborative platforms  
+- 💼 Software Developer at **Prix Corporation**
+- 🎓 Pursuing **Master of Computer Science (M.Sc. CS)**
+- 🎓 Graduated with **B.Sc. Computer Science (CGPA: 8.55)**
+- 💻 Passionate about building scalable, secure, and AI-powered full-stack applications
+- 🤖 Exploring Artificial Intelligence, Real-Time Systems, and System Design
+- 🌱 Continuously learning modern technologies and software architecture
+- 🏆 1st Place Winner (Top Coders Competition - SY & TY)
+- 🥈 2nd Place - State Level Technical Competition (Techno-Spirit 2025)
+- ⚡ Love building products that solve real-world problems
 
 ---
 
-## 🌱 Currently Learning  
-- Backend scalability patterns  
-- Load balancing & system design basics  
-- Advanced MongoDB optimization techniques  
-- Clean architecture & best coding practices  
+# 💼 Professional Experience
+
+## Software Developer | Prix Corporation
+📍 Baramati, Maharashtra | **Apr 2026 – Present**
+
+- 🚀 Developed 12+ enterprise REST APIs using **C#**, **ASP.NET Core**, and **MS SQL Server**
+- ⚡ Improved backend performance by optimizing database queries and indexing
+- 🎨 Built reusable Angular components for scalable enterprise applications
+- 🔒 Implemented secure Authentication & Authorization
+- 🤝 Collaborated on enterprise software following clean architecture principles
 
 ---
 
-## 🤝 Open Source & Collaboration  
-I enjoy collaborating on open-source projects and contributing meaningful features, bug fixes, and optimizations.  
-Currently contributing with **Voxora Cloud**, where I actively work on improving code quality and user experience.
+# 🚀 Featured Projects
+
+## 🎥 HireLink – Real-Time Video Interview Platform
+
+A real-time interview platform with live coding support.
+
+### Highlights
+
+- 🎥 One-to-one Video Calling
+- 💻 Live Code Execution
+- ⚡ Stream Video API
+- 🔐 Clerk Authentication
+- ⚙️ Inngest Background Jobs
+- 🌐 Production Deployment
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `Stream API` `Piston API` `Inngest`
 
 ---
 
-## 📈 GitHub Stats  
-*(Optional – looks great on GitHub profile)*  
+## 🤖 Nexora.AI – Intelligent Search Engine
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhu18&show_icons=true&theme=tokyonight)
+AI-powered conversational search engine combining **Gemini AI** with **Brave Search**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhu18&layout=compact&theme=tokyonight)
+### Highlights
 
----
+- AI Conversations
+- Multi-turn Context
+- Google OAuth
+- Search History
+- Real-time Web Search
+- Beautiful Responsive UI
 
-## 📫 Connect With Me  
-- 🌐 Portfolio: [vcode-portfolio.vercel.app](https://vcode-portfolio.vercel.app/)  
-- 💼 LinkedIn: [linkedin.com/in/vaibhav-shinde-b3b782238](https://linkedin.com/in/vaibhav-shinde-b3b782238)  
-- 📧 Email: **vaibhu8605@gmail.com**  
+**Tech Stack**
 
----
-
-## ⚡ Fun Facts  
-- 🏏 Big fan of cricket and team sports  
-- 💻 Love solving real-world problems with code  
-- 🌙 Late-night debugging sessions are my thing 😄  
+`Next.js` `MongoDB` `Auth.js` `Gemini API` `Brave Search`
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect with me. I’m always open to learning, collaboration, and new opportunities!*  
+## 💬 Veltrix AI Messenger
+
+Real-time AI messaging platform with media sharing.
+
+### Highlights
+
+- Socket.IO Messaging
+- AI Assistant
+- Cloudinary Uploads
+- JWT Authentication
+- Responsive UI
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `Socket.IO` `MongoDB` `Gemini AI`
+
+---
+
+## 📚 EduSlip
+
+Subscription-based educational platform with a custom Python CLI.
+
+### Highlights
+
+- User Registration
+- Automatic Username Generation
+- Email Notifications
+- Cashfree Payment Integration
+- Subscription Validation
+- Python CLI Package
+- Secure Slip Distribution
+
+### Python CLI
+
+```bash
+pip install eduslip
+
+eduslip <username> <subject_name> <slip_number>
+
+# Example
+eduslip admin os 1
+```
+
+**Tech Stack**
+
+`Next.js`
+`MongoDB`
+`NextAuth.js`
+`Cashfree`
+`Python`
+`REST APIs`
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+---
+
+## Frontend
+
+- React.js
+- Next.js
+- Angular
+- Tailwind CSS
+- shadcn/ui
+- Redux
+- HTML5
+- CSS3
+
+---
+
+## Backend
+
+- ASP.NET Core
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- NextAuth.js
+- Socket.IO
+
+---
+
+## Databases
+
+- MongoDB
+- MS SQL Server
+- PostgreSQL
+
+---
+
+## AI & APIs
+
+- Google Gemini API
+- Brave Search API
+- Stream Video API
+- Piston API
+- Cloudinary API
+
+---
+
+## Tools
+
+- Git
+- GitHub
+- Postman
+- VS Code
+- Vercel
+- Render
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced ASP.NET Core
+- Microservices Architecture
+- Docker
+- Kubernetes
+- Azure Cloud
+- System Design
+- Distributed Systems
+- CI/CD Pipelines
+
+---
+
+# 🏆 Achievements
+
+🥇 1st Place – Top Coders Competition (Second Year)
+
+🥇 1st Place – Top Coders Competition (Third Year)
+
+🥈 2nd Place – Techno-Spirit State Level Technical Competition
+
+🎓 Backend Development Certification – FunctionUp
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaibhu18&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhu18&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhu18&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+🌍 **Portfolio**
+https://itsvcode.vercel.app
+
+💼 **LinkedIn**
+https://linkedin.com/in/vaibhu18
+
+📧 **Email**
+dev.vaibhavshinde@gmail.com
+
+🐙 **GitHub**
+https://github.com/Vaibhu18
+
+---
+
+# ⚡ Fun Facts
+
+🏏 Cricket is my favorite sport.
+
+💡 I enjoy building AI-powered and developer-focused products.
+
+🌙 Most of my best code is written late at night.
+
+🚀 I believe the best way to learn is by building real-world projects.
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories and feel free to connect!
+</p>
