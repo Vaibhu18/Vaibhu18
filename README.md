@@ -197,19 +197,6 @@ eduslip admin os 1
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced ASP.NET Core
-- Microservices Architecture
-- Docker
-- Kubernetes
-- Azure Cloud
-- System Design
-- Distributed Systems
-- CI/CD Pipelines
-
----
-
 # 🏆 Achievements
 
 🥇 1st Place – Top Coders Competition (Second Year)
@@ -219,24 +206,6 @@ eduslip admin os 1
 🥈 2nd Place – Techno-Spirit State Level Technical Competition
 
 🎓 Backend Development Certification – FunctionUp
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaibhu18&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhu18&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhu18&theme=tokyonight"/>
-
-</p>
 
 ---
 
