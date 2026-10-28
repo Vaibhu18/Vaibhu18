@@ -125,7 +125,7 @@ Turns text prompts into complete React components and landing pages. 🔗 [Live 
 
 **Security, APIs & Tools**
 
-`JWT` `OAuth` `NextAuth.js` `Clerk` `AES-256-GCM` `Zod` `Stream Video API` `Piston API` `Gemini API` `Git` `GitHub` `Postman` `Clean Architecture` `SOLID` `DSA` `Agile`
+`JWT` `OAuth` `NextAuth.js` `Clerk` `AES-256-GCM` `Zod` `Stream Video API` `Piston API` `Gemini API` `Git` `GitHub` `Postman` `Clean Architecture` `DSA` `Agile`
 
 ---
 
